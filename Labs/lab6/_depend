@@ -1,0 +1,9 @@
+
+RTC.o:	RTC.c
+RTC.o:	RTC.h
+
+lab6.o:	lab6.c
+
+test6.o:	RTC.h
+test6.o:	test6.c
+test6.o:	test6.h

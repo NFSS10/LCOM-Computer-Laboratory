@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/lcom1516-t6g10/!svn/ver/52/lab3
+END
+libvt.a
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/lcom1516-t6g10/!svn/ver/43/lab3/libvt.a
+END
+i8254.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/lcom1516-t6g10/!svn/ver/45/lab3/i8254.h
+END
+kbd.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/lcom1516-t6g10/!svn/ver/42/lab3/kbd.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/lcom1516-t6g10/!svn/ver/49/lab3/timer.c
+END
+lab3.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/lcom1516-t6g10/!svn/ver/45/lab3/lab3.c
+END
+test3.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/lcom1516-t6g10/!svn/ver/52/lab3/test3.c
+END
+kbd_scan.S
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/lcom1516-t6g10/!svn/ver/52/lab3/kbd_scan.S
+END
+kbd.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/lcom1516-t6g10/!svn/ver/43/lab3/kbd.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/lcom1516-t6g10/!svn/ver/49/lab3/timer.h
+END
+test3.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/lcom1516-t6g10/!svn/ver/49/lab3/test3.h
+END
+i8042.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/lcom1516-t6g10/!svn/ver/45/lab3/i8042.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/lcom1516-t6g10/!svn/ver/50/lab3/makefile
+END
