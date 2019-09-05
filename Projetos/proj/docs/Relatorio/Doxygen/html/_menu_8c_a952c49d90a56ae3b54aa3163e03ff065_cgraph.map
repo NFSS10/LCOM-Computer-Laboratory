@@ -1,0 +1,8 @@
+<map id="showClock" name="showClock">
+<area shape="rect" id="node2" href="$group__timer.html#ga2e596aede5a7bfc4a6f4382779bf0d7d" title="Tests programming timer in square wave mode. " alt="" coords="139,5,265,32"/>
+<area shape="rect" id="node4" href="$kbd_8c.html#a285ec963b858023390824480d3c5c531" title="Leitura da informacao do KBC se nao existir qualquer erro. " alt="" coords="165,56,239,83"/>
+<area shape="rect" id="node5" href="$_graficos_8c.html#aee0cdf959bffc9716cbbaf719a2329e3" title="Desenha no ecra as horas. " alt="" coords="161,107,243,133"/>
+<area shape="rect" id="node3" href="$group__timer.html#gada4efbb5c88275795526fc45f0814aa3" title="Configures a timer to generate a square wave. " alt="" coords="329,5,451,32"/>
+<area shape="rect" id="node6" href="$_graficos_8c.html#abb732df986bf2a159c2627964b427d8b" title="Copia uma imagem para o buffer. " alt="" coords="313,81,467,108"/>
+<area shape="rect" id="node7" href="$_graficos_8c.html#a485eb8efc917ffeecd48cb1fbf6c5889" title="Escolhe a imagem numero do score do Menu. " alt="" coords="335,132,445,159"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="startGame" name="startGame">
+<area shape="rect" id="node2" href="$_graficos_8c.html#afc480f5434f2e67a76a16e9d5418dbec" title="Inicia o minix em modo grafico. " alt="" coords="178,5,253,32"/>
+<area shape="rect" id="node3" href="$kbd_8c.html#afba3a35bd6a79305e84ab4f33a5ffa7f" title="Subescreve e ativa as interrupcoes do teclado. " alt="" coords="152,56,279,83"/>
+<area shape="rect" id="node4" href="$group__timer.html#ga4c5d9f47323eda494cfd826f6d62eec9" title="Subscribes and enables Timer 0 interrupts. " alt="" coords="148,107,283,133"/>
+<area shape="rect" id="node5" href="$mouse_8c.html#a51e6ee02a5c0a7e618abde7250cd0841" title="Subescreve e ativa as interrupcoes do rato. " alt="" coords="143,157,288,184"/>
+<area shape="rect" id="node6" href="$_r_t_c_8c.html#afac093c61f42bba4a96a1643223fdb7f" title="Altera o RTC de BCD para Binario. " alt="" coords="136,208,295,235"/>
+<area shape="rect" id="node7" href="$_graficos_8c.html#a2979447069f40e3819db034e81b67ebf" title="Carrega todas as imagens necessarias para o jogo. " alt="" coords="155,259,276,285"/>
+<area shape="rect" id="node8" href="$_b_m_p_8c.html#a649f4d3b624f59439cea2a698681bdf2" title="Le uma imagem e guarda toda a informacao da imagem em BMP numa struct Imagem alocada. " alt="" coords="343,259,455,285"/>
+</map>

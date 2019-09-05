@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['banksize',['BankSize',['../struct____attribute____.html#a7e31ea09e6e6755e3a504b9c76b3f545',1,'__attribute__']]],
+  ['barra_5fx_5fi',['BARRA_X_I',['../macros_8h.html#ae75f9b8ce448708cddcbd12664fe8626',1,'macros.h']]],
+  ['barra_5fy_5fi',['BARRA_Y_I',['../macros_8h.html#af5e547d2279a4eeca8c4ed7bff708579',1,'macros.h']]],
+  ['bit',['BIT',['../macros_8h.html#a3a8ea58898cb58fc96013383d39f482c',1,'macros.h']]],
+  ['bits_5fper_5fpixel',['BITS_PER_PIXEL',['../macros_8h.html#a35faf89171af20cd21088c37d62bb7ee',1,'macros.h']]],
+  ['bits_5fpor_5fpixel',['bits_por_pixel',['../struct_b_m_p___info___header.html#a64df891621326569351ce01db0565254',1,'BMP_Info_Header']]],
+  ['bitsperpixel',['BitsPerPixel',['../struct____attribute____.html#a03756ae144fce823087a2a4255bf4bb1',1,'__attribute__']]],
+  ['bluefieldposition',['BlueFieldPosition',['../struct____attribute____.html#a4d0396c07a4f07556332fec2b4a6c2bf',1,'__attribute__']]],
+  ['bluemasksize',['BlueMaskSize',['../struct____attribute____.html#a84842a6a42e881ce7be87482122bcc4e',1,'__attribute__']]],
+  ['bmp_2ec',['BMP.c',['../_b_m_p_8c.html',1,'']]],
+  ['bmp_2eh',['BMP.h',['../_b_m_p_8h.html',1,'']]],
+  ['bmp_5fassinatura',['BMP_ASSINATURA',['../macros_8h.html#a8cfd18cd49eaaba1f8ca577ed4c30003',1,'macros.h']]],
+  ['bmp_5ffile_5fheader',['BMP_File_Header',['../struct_b_m_p___file___header.html',1,'']]],
+  ['bmp_5finfo',['BMP_info',['../struct_imagem.html#a50332a8a9ad9c04e08ca6bec0863fe1c',1,'Imagem']]],
+  ['bmp_5finfo_5fheader',['BMP_Info_Header',['../struct_b_m_p___info___header.html',1,'']]],
+  ['bnknumberofimagepages',['BnkNumberOfImagePages',['../struct____attribute____.html#a33ba903e149724b1bc99b3b8e43a7cbe',1,'__attribute__']]],
+  ['breakcode_5fi',['BREAKCODE_I',['../macros_8h.html#a6900e70c85810fec5a0a349eae193c8c',1,'macros.h']]],
+  ['bresenham',['bresenham',['../_graficos_8c.html#aa35fae5bc40a8747de677e7d2e0604a9',1,'Graficos.c']]],
+  ['bytes_5fper_5fpixel',['BYTES_PER_PIXEL',['../macros_8h.html#ae138b2e443649ca9546c99e80957faac',1,'macros.h']]],
+  ['bytesperscanline',['BytesPerScanLine',['../struct____attribute____.html#afe40654a51bf4a12a8b376ff3506688e',1,'__attribute__']]]
+];

@@ -1,0 +1,14 @@
+<map id="percorrer_barra" name="percorrer_barra">
+<area shape="rect" id="node2" href="$_graficos_8c.html#abc04de05dd80266f85ab2b65c4b90ded" title="Desenha o estado do jogo sem o ninja. " alt="" coords="163,183,296,209"/>
+<area shape="rect" id="node6" href="$_graficos_8c.html#abb732df986bf2a159c2627964b427d8b" title="Copia uma imagem para o buffer. " alt="" coords="712,233,865,260"/>
+<area shape="rect" id="node3" href="$_graficos_8c.html#a13aed592aba8b9b736d98dcf875abd67" title="Escolhe a plataforma a usar. " alt="" coords="344,107,473,133"/>
+<area shape="rect" id="node4" href="$_jogo_8c.html#aadd0b777de4ff70672b7bbc504f27293" title="Retorna o tamanho da plataforma gerada aleatoriamente. " alt="" coords="387,157,430,184"/>
+<area shape="rect" id="node5" href="$_graficos_8c.html#a7f379f3b6e12b4e53d780e35f68d9566" title="Desenha para o buffer, o fundo completo do jogo e a pontuacao atual para o buffer. " alt="" coords="349,208,468,235"/>
+<area shape="rect" id="node10" href="$_graficos_8c.html#a7c2137e33fc294b8c51927187565ce19" title="Desenha uma linha no ecra. " alt="" coords="372,56,445,83"/>
+<area shape="rect" id="node7" href="$_graficos_8c.html#ab8d269002468d8ba31b9abf1816dd3ea" title="Desenha para o buffer, parte da imagem de fundo. " alt="" coords="521,107,664,133"/>
+<area shape="rect" id="node8" href="$_graficos_8c.html#a4561416e9a49dbc3356e2a296498c62d" title="Desenha para o buffer, a pontuacao do jogador. " alt="" coords="552,157,633,184"/>
+<area shape="rect" id="node9" href="$_graficos_8c.html#abf8c5da4ee57499763af5592885bc7ce" title="Escolhe a imagem numero do score do jogo a ser usado. " alt="" coords="717,157,861,184"/>
+<area shape="rect" id="node11" href="$_graficos_8c.html#a18989d6d83b6096d397972f235a013fe" title="drawnVerticalLine" alt="" coords="531,56,655,83"/>
+<area shape="rect" id="node13" href="$_graficos_8c.html#aa35fae5bc40a8747de677e7d2e0604a9" title="bresenham" alt="" coords="549,5,636,32"/>
+<area shape="rect" id="node12" href="$_graficos_8c.html#a52908a2457d357019cb454b78ab6ebc0" title="Desenha um pixel no ecra. " alt="" coords="746,31,831,57"/>
+</map>

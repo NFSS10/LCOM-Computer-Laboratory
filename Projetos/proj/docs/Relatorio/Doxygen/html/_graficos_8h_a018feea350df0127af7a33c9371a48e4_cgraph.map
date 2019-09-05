@@ -1,0 +1,5 @@
+<map id="drawScoreMenu" name="drawScoreMenu">
+<area shape="rect" id="node2" href="$_graficos_8c.html#abb732df986bf2a159c2627964b427d8b" title="Copia uma imagem para o buffer. " alt="" coords="168,5,321,32"/>
+<area shape="rect" id="node3" href="$_utilidades_8c.html#a16e7461f92ed135964e507d14f8aecd4" title="Carrega do ficheiro a pontuacao maxima do jogo. " alt="" coords="205,56,285,83"/>
+<area shape="rect" id="node4" href="$_graficos_8c.html#a485eb8efc917ffeecd48cb1fbf6c5889" title="Escolhe a imagem numero do score do Menu. " alt="" coords="190,107,299,133"/>
+</map>

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/lcom1516-t6g10/!svn/ver/245/proj/StickHero/source
+END
+Jogo.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/lcom1516-t6g10/!svn/ver/235/proj/StickHero/source/Jogo.c
+END
+kbd.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/lcom1516-t6g10/!svn/ver/226/proj/StickHero/source/kbd.c
+END
+Graficos.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/lcom1516-t6g10/!svn/ver/242/proj/StickHero/source/Graficos.h
+END
+Jogo.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/lcom1516-t6g10/!svn/ver/235/proj/StickHero/source/Jogo.h
+END
+Menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/lcom1516-t6g10/!svn/ver/242/proj/StickHero/source/Menu.c
+END
+kbd.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/lcom1516-t6g10/!svn/ver/230/proj/StickHero/source/kbd.h
+END
+Menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/lcom1516-t6g10/!svn/ver/228/proj/StickHero/source/Menu.h
+END
+BMP.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/lcom1516-t6g10/!svn/ver/241/proj/StickHero/source/BMP.c
+END
+menufinal.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/lcom1516-t6g10/!svn/ver/241/proj/StickHero/source/menufinal.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/lcom1516-t6g10/!svn/ver/238/proj/StickHero/source/timer.c
+END
+vbe.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/lcom1516-t6g10/!svn/ver/85/proj/StickHero/source/vbe.h
+END
+BMP.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/lcom1516-t6g10/!svn/ver/241/proj/StickHero/source/BMP.h
+END
+menufinal.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/lcom1516-t6g10/!svn/ver/225/proj/StickHero/source/menufinal.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/lcom1516-t6g10/!svn/ver/243/proj/StickHero/source/main.c
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/lcom1516-t6g10/!svn/ver/97/proj/StickHero/source/timer.h
+END
+Utilidades.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/lcom1516-t6g10/!svn/ver/222/proj/StickHero/source/Utilidades.c
+END
+RTC.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/lcom1516-t6g10/!svn/ver/213/proj/StickHero/source/RTC.c
+END
+mouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/lcom1516-t6g10/!svn/ver/241/proj/StickHero/source/mouse.c
+END
+cpyconf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/lcom1516-t6g10/!svn/ver/85/proj/StickHero/source/cpyconf.sh
+END
+macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/lcom1516-t6g10/!svn/ver/240/proj/StickHero/source/macros.h
+END
+score
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/lcom1516-t6g10/!svn/ver/245/proj/StickHero/source/score
+END
+Utilidades.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/lcom1516-t6g10/!svn/ver/222/proj/StickHero/source/Utilidades.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/lcom1516-t6g10/!svn/ver/194/proj/StickHero/source/Makefile
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/lcom1516-t6g10/!svn/ver/85/proj/StickHero/source/run.sh
+END
+RTC.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/lcom1516-t6g10/!svn/ver/223/proj/StickHero/source/RTC.h
+END
+Graficos.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/lcom1516-t6g10/!svn/ver/242/proj/StickHero/source/Graficos.c
+END
+liblm.a
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/lcom1516-t6g10/!svn/ver/85/proj/StickHero/source/liblm.a
+END
+mouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/lcom1516-t6g10/!svn/ver/226/proj/StickHero/source/mouse.h
+END

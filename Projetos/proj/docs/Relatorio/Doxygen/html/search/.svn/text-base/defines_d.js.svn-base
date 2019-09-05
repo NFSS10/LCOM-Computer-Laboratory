@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['rato_5fh',['RATO_H',['../macros_8h.html#a5b9e8997d1df32b95a81545148355863',1,'macros.h']]],
+  ['rato_5fv',['RATO_V',['../macros_8h.html#a6317e6896d48bff77fbb9e5d15356e24',1,'macros.h']]],
+  ['read_5fdata',['READ_DATA',['../macros_8h.html#a8d406d5aff787991429e62cfd9bac721',1,'macros.h']]],
+  ['remote_5fmode',['REMOTE_MODE',['../macros_8h.html#a17981ca5836957abd2dfe6b77d96744d',1,'macros.h']]],
+  ['resend_5fcmd',['RESEND_CMD',['../macros_8h.html#ae1bd2ea22722c13da0229cd470522193',1,'macros.h']]],
+  ['reset_5fcmd',['RESET_CMD',['../macros_8h.html#a1b576d3886aa80ee37419f976b7f3289',1,'macros.h']]],
+  ['rtc_5faddr_5freg',['RTC_ADDR_REG',['../macros_8h.html#a710b98232df2c563009e6f8a6cd18220',1,'macros.h']]],
+  ['rtc_5fbcd_5fto_5fbinary',['RTC_BCD_TO_BINARY',['../macros_8h.html#a6d1fa6e905cec5f9145018be160788cf',1,'macros.h']]],
+  ['rtc_5fdata_5freg',['RTC_DATA_REG',['../macros_8h.html#a2f258a00c59c3f347c8d2d4a75471ce0',1,'macros.h']]],
+  ['rtc_5freg_5fa',['RTC_REG_A',['../macros_8h.html#ae5ffad506b363f28bed1bb5e5926bd2d',1,'macros.h']]],
+  ['rtc_5freg_5fb',['RTC_REG_B',['../macros_8h.html#a03954a63ead3f02b7790ce79e9877eea',1,'macros.h']]],
+  ['rtc_5freg_5fc',['RTC_REG_C',['../macros_8h.html#a1bd6f771dc313129723812fe7ac52d9e',1,'macros.h']]],
+  ['rtc_5freg_5fd',['RTC_REG_D',['../macros_8h.html#a34c8604ade07f4f7ff7e919f2d4c56b4',1,'macros.h']]],
+  ['rtc_5freg_5fhours',['RTC_REG_HOURS',['../macros_8h.html#a54bcd63ccb79d287bda66da425f1ac9f',1,'macros.h']]],
+  ['rtc_5freg_5fminutes',['RTC_REG_MINUTES',['../macros_8h.html#adaa8204e0b84c74299e592e3f6238749',1,'macros.h']]],
+  ['rtc_5freg_5fseconds',['RTC_REG_SECONDS',['../macros_8h.html#ac3004908ae9724250ed5e259bb79a74a',1,'macros.h']]]
+];

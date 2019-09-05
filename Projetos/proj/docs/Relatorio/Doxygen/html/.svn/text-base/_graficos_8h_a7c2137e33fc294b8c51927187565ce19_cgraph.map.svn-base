@@ -1,0 +1,5 @@
+<map id="drawLine" name="drawLine">
+<area shape="rect" id="node2" href="$_graficos_8c.html#a18989d6d83b6096d397972f235a013fe" title="drawnVerticalLine" alt="" coords="127,5,251,32"/>
+<area shape="rect" id="node4" href="$_graficos_8c.html#aa35fae5bc40a8747de677e7d2e0604a9" title="bresenham" alt="" coords="145,56,232,83"/>
+<area shape="rect" id="node3" href="$_graficos_8c.html#a52908a2457d357019cb454b78ab6ebc0" title="Desenha um pixel no ecra. " alt="" coords="299,31,384,57"/>
+</map>

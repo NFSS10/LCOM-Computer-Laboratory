@@ -1,0 +1,6 @@
+<map id="drawOptionEnd" name="drawOptionEnd">
+<area shape="rect" id="node2" href="$_graficos_8c.html#a7c2137e33fc294b8c51927187565ce19" title="Desenha uma linha no ecra. " alt="" coords="164,31,237,57"/>
+<area shape="rect" id="node3" href="$_graficos_8c.html#a18989d6d83b6096d397972f235a013fe" title="drawnVerticalLine" alt="" coords="285,5,409,32"/>
+<area shape="rect" id="node5" href="$_graficos_8c.html#aa35fae5bc40a8747de677e7d2e0604a9" title="bresenham" alt="" coords="304,56,391,83"/>
+<area shape="rect" id="node4" href="$_graficos_8c.html#a52908a2457d357019cb454b78ab6ebc0" title="Desenha um pixel no ecra. " alt="" coords="457,31,543,57"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="endGame" name="endGame">
+<area shape="rect" id="node2" href="$kbd_8c.html#a6bc40262b1b888f97a4b5007cf3620f9" title="Desubescreve as interrupcoes do teclado. " alt="" coords="141,5,282,32"/>
+<area shape="rect" id="node3" href="$group__timer.html#gab9eea51549744bca5c5c923b388bb4ee" title="Unsubscribes Timer 0 interrupts. " alt="" coords="137,56,286,83"/>
+<area shape="rect" id="node4" href="$mouse_8c.html#a685ad2706aca36d9869a30a19b9f446a" title="Desubescreve as interrupcoes do rato. " alt="" coords="132,107,291,133"/>
+<area shape="rect" id="node5" href="$_graficos_8c.html#adb7cada1982f0e8265d8082560098810" title="Apaga todas as imagens do jogo inicializadas anteriormente. " alt="" coords="158,157,265,184"/>
+<area shape="rect" id="node7" href="$_graficos_8c.html#a3b4db62745bac4af50d9387e5847f3d0" title="Retira o minix do modo grafico para o modo de texto. " alt="" coords="172,208,251,235"/>
+<area shape="rect" id="node6" href="$_b_m_p_8c.html#ad8c97d5a842fbd539f740cba50e9e82c" title="Apaga uma struct de imagem que foi alocado anteriormente. " alt="" coords="339,157,441,184"/>
+</map>

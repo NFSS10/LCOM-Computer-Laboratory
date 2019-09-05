@@ -1,0 +1,6 @@
+<map id="drawn_fundo_buf" name="drawn_fundo_buf">
+<area shape="rect" id="node2" href="$_graficos_8c.html#abb732df986bf2a159c2627964b427d8b" title="Copia uma imagem para o buffer. " alt="" coords="363,5,516,32"/>
+<area shape="rect" id="node3" href="$_graficos_8c.html#ab8d269002468d8ba31b9abf1816dd3ea" title="Desenha para o buffer, parte da imagem de fundo. " alt="" coords="172,31,315,57"/>
+<area shape="rect" id="node4" href="$_graficos_8c.html#a4561416e9a49dbc3356e2a296498c62d" title="Desenha para o buffer, a pontuacao do jogador. " alt="" coords="203,81,284,108"/>
+<area shape="rect" id="node5" href="$_graficos_8c.html#abf8c5da4ee57499763af5592885bc7ce" title="Escolhe a imagem numero do score do jogo a ser usado. " alt="" coords="367,81,511,108"/>
+</map>
